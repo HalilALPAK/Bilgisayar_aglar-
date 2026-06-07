@@ -121,3 +121,5 @@ python client_gbn.py --loss 0.1 --window 10
 ## Yazarlar
 
 - Halil ALPAK
+- Hilal KAYA
+- İmer İmeri
