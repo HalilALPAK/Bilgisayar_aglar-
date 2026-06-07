@@ -2,7 +2,7 @@
 
 Bursa Teknik Üniversitesi — Bilgisayar Ağları Dönem Projesi
 
-> **GitHub:** https://github.com/HalilALPAK/aglar-
+> **GitHub:** [https://github.com/HalilALPAK/aglar-](https://github.com/HalilALPAK/Bilgisayar_aglar-)
 
 ## Proje Özeti
 
